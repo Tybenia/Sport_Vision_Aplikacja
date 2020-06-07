@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ekwipunek" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAwBAACAAAAAAAAAAAAAAACAAAQACAAgAAAAAAAQ=</HashCode>
+      <FileName>Ekwipunek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Namiot" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEEAAAAAAAAABAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Namiot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlacZabaw" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAGABAAAAIAA=</HashCode>
+      <FileName>PlacZabaw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="postac" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAABAAAgACAAEAAAAAAAA=</HashCode>
+      <FileName>postac.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Praca" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAGgAAAAAAAA=</HashCode>
+      <FileName>Praca.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sklep" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAACAAAIACQAAAAAAAA=</HashCode>
+      <FileName>sklep.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stadion" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAQAAAAAAAAAAAAACgAAAAAABA=</HashCode>
+      <FileName>Stadion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statystyki" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAABkAAAAAAAAgAAgQAAAAAAYAAAAEAAAAAACAAIA=</HashCode>
+      <FileName>Statystyki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trening" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAGgAAAAAAAA=</HashCode>
+      <FileName>Trening.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wet" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAQAAAAAAAAAAAAIAAAAAAACgAAAAAAAA=</HashCode>
+      <FileName>Wet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wyscig" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABACABAAAAAAAAABAAAAhBACAAAAQAgAAAAAAAQ=</HashCode>
+      <FileName>Wyscig.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zuk" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAgAAQIAAAAAAANIBABQQAAYAASIAEAAAACAiA=</HashCode>
+      <FileName>Zuk.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zwierze" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAgAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Zwierze.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
